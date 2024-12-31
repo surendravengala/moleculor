@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moleculor/static/css/main.efb3697d.css",
-    "main.js": "/moleculor/static/js/main.32e4151b.js",
+    "main.js": "/moleculor/static/js/main.c308eb07.js",
     "index.html": "/moleculor/index.html",
     "main.efb3697d.css.map": "/moleculor/static/css/main.efb3697d.css.map",
-    "main.32e4151b.js.map": "/moleculor/static/js/main.32e4151b.js.map"
+    "main.c308eb07.js.map": "/moleculor/static/js/main.c308eb07.js.map"
   },
   "entrypoints": [
     "static/css/main.efb3697d.css",
-    "static/js/main.32e4151b.js"
+    "static/js/main.c308eb07.js"
   ]
 }
